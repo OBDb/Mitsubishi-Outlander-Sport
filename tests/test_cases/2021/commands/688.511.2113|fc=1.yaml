@@ -21,13 +21,13 @@ test_cases:
     OSPORT_AC_VSS: 250
   response: '5110761139E07123272'
 - expected_values:
+    OSPORT_AC_RPM: 2830
+    OSPORT_AC_VSS: 250
+  response: 511076113A00B0E20D6
+- expected_values:
     OSPORT_AC_RPM: 1280
     OSPORT_AC_VSS: 250
   response: 511076113A2050003D0
-- expected_values:
-    OSPORT_AC_RPM: 3000
-    OSPORT_AC_VSS: 250
-  response: 511076113C40BB81681
 - expected_values:
     OSPORT_AC_RPM: 1043
     OSPORT_AC_VSS: 0
