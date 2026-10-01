@@ -1,0 +1,22 @@
+command_id: 7E0.7E8.2102
+test_cases:
+- expected_values:
+    OSPORT_BP: 0
+    OSPORT_MPI_ECT: 91
+    OSPORT_MPI_IAT: 25
+  response: '7E80761024183000000'
+- expected_values:
+    OSPORT_BP: 0
+    OSPORT_MPI_ECT: 41
+    OSPORT_MPI_IAT: 28
+  response: '7E80761024451000000'
+- expected_values:
+    OSPORT_BP: 0
+    OSPORT_MPI_ECT: 92
+    OSPORT_MPI_IAT: 28
+  response: '7E80761024484000000'
+- expected_values:
+    OSPORT_BP: 0
+    OSPORT_MPI_ECT: 91
+    OSPORT_MPI_IAT: 53
+  response: 7E80761025D83000000

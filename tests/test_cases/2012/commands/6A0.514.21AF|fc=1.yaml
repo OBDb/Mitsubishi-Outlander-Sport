@@ -1,0 +1,8 @@
+command_id: 6A0.514.21AF|fc=1
+test_cases:
+- expected_values:
+    OSPORT_DASHBOARD_V: 12.5
+  response: 5140361AF7D
+- expected_values:
+    OSPORT_DASHBOARD_V: 15
+  response: 5140361AF96

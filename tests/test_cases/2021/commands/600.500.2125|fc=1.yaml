@@ -1,0 +1,56 @@
+command_id: 600.500.2125|fc=1
+test_cases:
+- expected_values:
+    OSPORT_TP_RR: 28.2
+    OSPORT_TT_RR: 22
+  response: |-
+    500100D612500C270A2
+    50021E077018D8D4808
+- expected_values:
+    OSPORT_TP_RR: 28.2
+    OSPORT_TT_RR: 22
+  response: |-
+    500100D612500C270A2
+    50021E077018D8D4810
+- expected_values:
+    OSPORT_TP_RR: 28.4
+    OSPORT_TT_RR: 23
+  response: |-
+    500100D612500C270A2
+    50021E077018E8E498F
+- expected_values:
+    OSPORT_TP_RR: 28.8
+    OSPORT_TT_RR: 23
+  response: |-
+    500100D612500C270A2
+    50021E07701909049C3
+- expected_values:
+    OSPORT_TP_RR: 30
+    OSPORT_TT_RR: 30
+  response: |-
+    500100D612500C270A2
+    50021E077019696500E
+- expected_values:
+    OSPORT_TP_RR: 29.2
+    OSPORT_TT_RR: 27
+  response: |-
+    500100D612500C270A2
+    50021E077C192924DFF
+- expected_values:
+    OSPORT_TP_RR: 29.4
+    OSPORT_TT_RR: 29
+  response: |-
+    500100D612500C270A2
+    50021E077C193934FFE
+- expected_values:
+    OSPORT_TP_RR: 31.8
+    OSPORT_TT_RR: 43
+  response: |-
+    500100D612500C270A2
+    50021E077C19F9F5D5A
+- expected_values:
+    OSPORT_TP_RR: 30.8
+    OSPORT_TT_RR: 37
+  response: |-
+    500100D612500C270A2
+    50021E077C39A9A5779
