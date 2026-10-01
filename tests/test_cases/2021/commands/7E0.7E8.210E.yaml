@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.210E
+test_cases:
+- expected_values:
+    OSPORT_MPI_COOLING_FAN_DUTY: 0
+  response: 7E807610E0000000000
+- expected_values:
+    OSPORT_MPI_COOLING_FAN_DUTY: 50.2016
+  response: 7E807610E8000000000
+- expected_values:
+    OSPORT_MPI_COOLING_FAN_DUTY: 100.011
+  response: 7E807610EFF00000000

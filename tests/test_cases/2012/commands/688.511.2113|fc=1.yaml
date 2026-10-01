@@ -1,0 +1,26 @@
+command_id: 688.511.2113|fc=1
+test_cases:
+- expected_values:
+    OSPORT_AC_RPM: 664
+    OSPORT_AC_VSS: 0
+  response: 511076113AA02980000
+- expected_values:
+    OSPORT_AC_RPM: 1627
+    OSPORT_AC_VSS: 250
+  response: 511076113B4065B27FD
+- expected_values:
+    OSPORT_AC_RPM: 1537
+    OSPORT_AC_VSS: 173
+  response: 511076113BC060100AD
+- expected_values:
+    OSPORT_AC_RPM: 2347
+    OSPORT_AC_VSS: 250
+  response: 511076113C2092B396B
+- expected_values:
+    OSPORT_AC_RPM: 1277
+    OSPORT_AC_VSS: 250
+  response: 511076113C804FD15AD
+- expected_values:
+    OSPORT_AC_RPM: 738
+    OSPORT_AC_VSS: 0
+  response: 511076113EE02E20000

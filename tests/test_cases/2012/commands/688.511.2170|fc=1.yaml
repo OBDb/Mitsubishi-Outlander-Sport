@@ -1,0 +1,11 @@
+command_id: 688.511.2170|fc=1
+test_cases:
+- expected_values:
+    OSPORT_AC_A_C_COMPRESSOR_DRIVE_FLAG: 0
+  response: 5110761700000047B00
+- expected_values:
+    OSPORT_AC_A_C_COMPRESSOR_DRIVE_FLAG: 1
+  response: 5110761700100047B00
+- expected_values:
+    OSPORT_AC_A_C_COMPRESSOR_DRIVE_FLAG: 1
+  response: '5110761700100049400'

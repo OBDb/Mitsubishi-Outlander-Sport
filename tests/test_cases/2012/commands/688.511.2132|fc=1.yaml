@@ -1,0 +1,14 @@
+command_id: 688.511.2132|fc=1
+test_cases:
+- expected_values:
+    OSPORT_AC_LEAK_INDICATOR: 0
+    OSPORT_AC_LEAK_INDICATOR_20: 1
+  response: '5110761328400000000'
+- expected_values:
+    OSPORT_AC_LEAK_INDICATOR: 0
+    OSPORT_AC_LEAK_INDICATOR_20: 0
+  response: '5110761328800000000'
+- expected_values:
+    OSPORT_AC_LEAK_INDICATOR: 0
+    OSPORT_AC_LEAK_INDICATOR_20: 0
+  response: '5110761329200000000'

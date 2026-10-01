@@ -1,0 +1,17 @@
+command_id: 688.511.2122|fc=1
+test_cases:
+- expected_values:
+    OSPORT_AC_OUTPUT_MODE: 0
+    OSPORT_AC_OUTPUT_VSS_AS: 0
+    OSPORT_AC_OUTPUT_VSS_DR: 0
+  response: '5110761220000000700'
+- expected_values:
+    OSPORT_AC_OUTPUT_MODE: 0
+    OSPORT_AC_OUTPUT_VSS_AS: 1
+    OSPORT_AC_OUTPUT_VSS_DR: 1
+  response: '5110761220202000000'
+- expected_values:
+    OSPORT_AC_OUTPUT_MODE: 0
+    OSPORT_AC_OUTPUT_VSS_AS: 16
+    OSPORT_AC_OUTPUT_VSS_DR: 16
+  response: 511076122FFFF000700
