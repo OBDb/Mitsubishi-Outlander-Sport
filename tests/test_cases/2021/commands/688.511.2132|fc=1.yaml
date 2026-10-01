@@ -23,6 +23,10 @@ test_cases:
 - expected_values:
     OSPORT_AC_LEAK_INDICATOR: 0
     OSPORT_AC_LEAK_INDICATOR_20: 1
+  response: 511076132AC000765D4
+- expected_values:
+    OSPORT_AC_LEAK_INDICATOR: 0
+    OSPORT_AC_LEAK_INDICATOR_20: 1
   response: 511076132AE000364D7
 - expected_values:
     OSPORT_AC_LEAK_INDICATOR: 0
