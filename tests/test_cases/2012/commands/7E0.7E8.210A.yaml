@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.210A
+test_cases:
+- expected_values:
+    OSPORT_MPI_VVT_PHASE_ANGLE: -4.375
+  response: 7E807610A0000790F66
+- expected_values:
+    OSPORT_MPI_VVT_PHASE_ANGLE: -3.125
+  response: 7E807610A40F87B0F66
+- expected_values:
+    OSPORT_MPI_VVT_PHASE_ANGLE: -7.5
+  response: 7E807610A4402740F00
+- expected_values:
+    OSPORT_MPI_VVT_PHASE_ANGLE: -19.375
+  response: 7E807610A45E8610C40
+- expected_values:
+    OSPORT_MPI_VVT_PHASE_ANGLE: -20.625
+  response: 7E807610A46AB5F0C00
+- expected_values:
+    OSPORT_MPI_VVT_PHASE_ANGLE: -6.25
+  response: 7E807610A46AB760EE0
+- expected_values:
+    OSPORT_MPI_VVT_PHASE_ANGLE: -13.75
+  response: 7E807610A48306A0D60

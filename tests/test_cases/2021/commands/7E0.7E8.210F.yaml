@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.210F
+test_cases:
+- expected_values:
+    OSPORT_MPI_PURGE_VALVE_CTRL: 0
+  response: 7E807610F0000000000
+- expected_values:
+    OSPORT_MPI_PURGE_VALVE_CTRL: 100
+  response: 7E807610FFF00000000

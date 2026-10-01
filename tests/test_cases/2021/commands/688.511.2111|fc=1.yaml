@@ -1,0 +1,14 @@
+command_id: 688.511.2111|fc=1
+test_cases:
+- expected_values:
+    OSPORT_AC_AAT: 20.5
+  response: '511076111791E000000'
+- expected_values:
+    OSPORT_AC_AAT: 31
+  response: '5110761118E09000000'
+- expected_values:
+    OSPORT_AC_AAT: 31.5
+  response: 5110761118F40000000
+- expected_values:
+    OSPORT_AC_AAT: 37
+  response: 5110761119A31000000
