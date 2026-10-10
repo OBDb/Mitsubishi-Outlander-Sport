@@ -19,6 +19,12 @@ test_cases:
     500100D612400C20DB9
     50021F3AD019E9E4D50
 - expected_values:
+    OSPORT_TP_RL: 31.6
+    OSPORT_TT_RL: 30
+  response: |-
+    500100D612400C20DB9
+    50021F3AD019E9E500D
+- expected_values:
     OSPORT_TP_RL: 32
     OSPORT_TT_RL: 26
   response: |-
@@ -31,26 +37,20 @@ test_cases:
     500100D612400C20DB9
     50021F3AD01AFAF6112
 - expected_values:
-    OSPORT_TP_RL: 35.2
-    OSPORT_TT_RL: 46
-  response: |-
-    500100D612400C20DB9
-    50021F3AD01B0B0600A
-- expected_values:
-    OSPORT_TP_RL: 31.6
-    OSPORT_TT_RL: 29
-  response: |-
-    500100D612400C20DB9
-    50021F3AD029E9E4F59
-- expected_values:
     OSPORT_TP_RL: 31.6
     OSPORT_TT_RL: 29
   response: |-
     500100D612400C20DB9
     50021F3ADC19E9E4F0F
 - expected_values:
-    OSPORT_TP_RL: 32.8
+    OSPORT_TP_RL: 34.2
+    OSPORT_TT_RL: 45
+  response: |-
+    500100D612400C20DB9
+    50021F3ADC1ABAB5FB2
+- expected_values:
+    OSPORT_TP_RL: 32.4
     OSPORT_TT_RL: 35
   response: |-
     500100D612400C20DB9
-    50021F3ADC3A4A45570
+    50021F3ADC3A2A2550E
