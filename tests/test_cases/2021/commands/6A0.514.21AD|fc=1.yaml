@@ -1,14 +1,14 @@
 command_id: 6A0.514.21AD|fc=1
 test_cases:
 - expected_values:
-    OSPORT_ODO: 57857
+    OSPORT_ODO: 123392
   response: 5140561AD00E201
 - expected_values:
-    OSPORT_ODO: 58113
+    OSPORT_ODO: 123648
   response: 5140561AD00E301
 - expected_values:
-    OSPORT_ODO: 15720705
+    OSPORT_ODO: 123375
   response: 5140561ADEFE101
 - expected_values:
-    OSPORT_ODO: 16769281
+    OSPORT_ODO: 123391
   response: 5140561ADFFE101

@@ -92,7 +92,7 @@
   ]},
 { "hdr": "6A0", "rax": "514", "fcm1": true, "cmd": {"21": "AD"}, "freq": 30, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020], "from": 2022 },
   "signals": [
-    {"id": "OSPORT_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "nullmax": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "OSPORT_ODO", "path": "Trips", "fmt": { "len": 24, "blsb": true, "max": 16777215, "nullmax": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "6A0", "rax": "514", "fcm1": true, "cmd": {"21": "AF"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020], "from": 2022 },
   "signals": [
