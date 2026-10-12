@@ -100,8 +100,8 @@
   ]},
 { "hdr": "6A0", "rax": "514", "fcm1": true, "cmd": {"21": "BC"}, "freq": 30, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020], "from": 2022 },
   "signals": [
-    {"id": "OSPORT_MILEAGE_BEFORE_SERVICING",       "path": "Trips", "fmt": {           "len": 8, "max": 25500, "mul": 100, "unit": "kilometers" }, "name": "Mileage before servicing"},
-    {"id": "OSPORT_PERIOD_BEFORE_SERVICING_MONTHS", "path": "Trips", "fmt": {"bix": 32, "len": 8, "max": 255,               "unit": "scalar"     }, "name": "Months before servicing"}
+    {"id": "OSPORT_MILEAGE_BEFORE_SERVICING",       "path": "Trips", "fmt": {           "len": 8, "max": 25500, "mul": 100, "nullmax": 25500, "unit": "kilometers" }, "name": "Mileage before servicing"},
+    {"id": "OSPORT_PERIOD_BEFORE_SERVICING_MONTHS", "path": "Trips", "fmt": {"bix": 32, "len": 8, "max": 255,                                 "unit": "scalar"     }, "name": "Months before servicing"}
   ]},
 { "hdr": "773", "rax": "774", "fcm1": true, "cmd": {"21": "A1"}, "freq": 15, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
