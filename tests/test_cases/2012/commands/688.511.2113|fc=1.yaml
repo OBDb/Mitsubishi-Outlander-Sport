@@ -1,9 +1,9 @@
 command_id: 688.511.2113|fc=1
 test_cases:
 - expected_values:
-    OSPORT_AC_RPM: 664
+    OSPORT_AC_RPM: 597
     OSPORT_AC_VSS: 0
-  response: 511076113AA02980000
+  response: 511076113A802550000
 - expected_values:
     OSPORT_AC_RPM: 1627
     OSPORT_AC_VSS: 250

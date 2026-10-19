@@ -1,6 +1,12 @@
 command_id: 600.500.2124|fc=1
 test_cases:
 - expected_values:
+    OSPORT_TP_RL: 30.2
+    OSPORT_TT_RL: 25
+  response: |-
+    500100D612400C20DB9
+    50021F3AD0197974B18
+- expected_values:
     OSPORT_TP_RL: 30.6
     OSPORT_TT_RL: 27
   response: |-
