@@ -5,7 +5,7 @@ test_cases:
   response: 5140561A3000420
 - expected_values:
     OSPORT_FLI: 100
-  response: 5140561A306047F
+  response: 5140561A300047F
 - expected_values:
     OSPORT_FLI: 57
   response: 5140561A31E0249
