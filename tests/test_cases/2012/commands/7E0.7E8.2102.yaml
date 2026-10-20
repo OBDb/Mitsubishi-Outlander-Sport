@@ -12,9 +12,9 @@ test_cases:
   response: '7E80761024447000000'
 - expected_values:
     OSPORT_BP: 0
-    OSPORT_MPI_ECT: 92
-    OSPORT_MPI_IAT: 58
-  response: '7E80761026284000000'
+    OSPORT_MPI_ECT: 94
+    OSPORT_MPI_IAT: 36
+  response: 7E80761024C86000000
 - expected_values:
     OSPORT_BP: 0
     OSPORT_MPI_ECT: 88
