@@ -7,6 +7,12 @@ test_cases:
     500100D612600C20DB9
     50021F3A50199994D0B
 - expected_values:
+    OSPORT_TP_FR: 31.2
+    OSPORT_TT_FR: 31
+  response: |-
+    500100D612600C20DB9
+    50021F3A5019C9C515F
+- expected_values:
     OSPORT_TP_FR: 31.8
     OSPORT_TT_FR: 27
   response: |-
@@ -24,12 +30,6 @@ test_cases:
   response: |-
     500100D612600C20DB9
     50021F3A501A0A04D17
-- expected_values:
-    OSPORT_TP_FR: 32.2
-    OSPORT_TT_FR: 37
-  response: |-
-    500100D612600C20DB9
-    50021F3A501A1A1571F
 - expected_values:
     OSPORT_TP_FR: 32.4
     OSPORT_TT_FR: 29
