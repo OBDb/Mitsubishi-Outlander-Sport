@@ -7,8 +7,8 @@ test_cases:
     OSPORT_ODO: 199271
   response: 5140561AD670A03
 - expected_values:
-    OSPORT_ODO: 202600
-  response: 5140561AD681703
+    OSPORT_ODO: 202871
+  response: 5140561AD771803
 - expected_values:
     OSPORT_ODO: 199935
   response: 5140561ADFF0C03
