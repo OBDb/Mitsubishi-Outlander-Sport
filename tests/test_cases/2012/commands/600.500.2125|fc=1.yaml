@@ -53,7 +53,7 @@ test_cases:
     OSPORT_TT_RR: 28
   response: |-
     500100D612500C20DB8
-    5002135F6C199994E0F
+    5002135F6C199994E07
 - expected_values:
     OSPORT_TP_RR: 30.8
     OSPORT_TT_RR: 29
