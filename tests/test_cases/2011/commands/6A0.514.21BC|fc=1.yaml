@@ -1,0 +1,7 @@
+command_id: 6A0.514.21BC|fc=1
+test_cases:
+- expected_values:
+    OSPORT_PERIOD_BEFORE_SERVICING_MONTHS: 2
+  response: |-
+    514100861BCFFFF0603
+    5142102FF0000000000

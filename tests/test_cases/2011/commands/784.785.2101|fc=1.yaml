@@ -1,0 +1,10 @@
+command_id: 784.785.2101|fc=1
+test_cases:
+- expected_values:
+    OSPORT_ABS_FL_VSS: 0.74
+    OSPORT_ABS_FR_VSS: 0.74
+    OSPORT_ABS_RL_VSS: 0.74
+    OSPORT_ABS_RR_VSS: 0.74
+  response: |-
+    785100A6101004A004A
+    78521004A004AFFFFFF

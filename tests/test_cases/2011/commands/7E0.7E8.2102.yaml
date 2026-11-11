@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2102
+test_cases:
+- expected_values:
+    OSPORT_BP: 0
+    OSPORT_MPI_ECT: 22
+    OSPORT_MPI_IAT: 21
+  response: 7E80761023D3E000000

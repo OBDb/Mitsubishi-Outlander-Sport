@@ -1,0 +1,7 @@
+command_id: 688.511.2123|fc=1
+test_cases:
+- expected_values:
+    OSPORT_AC_A_C_COMPRESSOR_DRIVE_REQUEST: 0
+    OSPORT_AC_IDLE_UP_REQUEST: 0
+    OSPORT_AC_SWITCH: 0
+  response: '5110761230000000000'

@@ -1,0 +1,8 @@
+command_id: 600.500.2127|fc=1
+test_cases:
+- expected_values:
+    OSPORT_TP_SPARE: null
+    OSPORT_TT_SPARE: null
+  response: |-
+    500100D61270100FFFF
+    50021FFFF0000000000

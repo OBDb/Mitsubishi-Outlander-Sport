@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.210A
+test_cases:
+- expected_values:
+    OSPORT_MPI_VVT_PHASE_ANGLE: 21.875
+  response: 7E807610A048FA30F66

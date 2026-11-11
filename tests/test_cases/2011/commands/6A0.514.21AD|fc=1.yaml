@@ -1,0 +1,5 @@
+command_id: 6A0.514.21AD|fc=1
+test_cases:
+- expected_values:
+    OSPORT_ODO: 249680
+  response: 5140561AD50CF03

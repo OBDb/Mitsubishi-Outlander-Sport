@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2112
+test_cases:
+- expected_values:
+    OSPORT_MPI_TGT_THROTTLE_CTRL: 1.06836
+    OSPORT_MPI_THROTTLE_CTRL_SERVO: 4.31373
+  response: 7E807611202230B0000

@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2108
+test_cases:
+- expected_values:
+    OSPORT_MPI_DETONATION_CTRL_LEARNED: 100
+    OSPORT_MPI_DETONATION_RETARD: 0
+  response: 7E80761085100FF0400
