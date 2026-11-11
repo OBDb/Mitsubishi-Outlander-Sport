@@ -1,5 +1,8 @@
 command_id: 688.511.2111|fc=1
 test_cases:
 - expected_values:
+    OSPORT_AC_AAT: 15
+  response: '5110761116E00000000'
+- expected_values:
     OSPORT_AC_AAT: 15.5
   response: 5110761116F00000000
