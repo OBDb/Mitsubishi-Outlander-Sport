@@ -1,0 +1,6 @@
+command_id: 688.511.2113|fc=1
+test_cases:
+- expected_values:
+    OSPORT_AC_RPM: 0
+    OSPORT_AC_VSS: 0
+  response: '5110761137E00000000'

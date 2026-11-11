@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2103
+test_cases:
+- expected_values:
+    OSPORT_MPI_AIR_FLOW_SNS_V: 1.15686
+    OSPORT_MPI_ENGINE_LOAD: 0
+    OSPORT_MPI_MANIFOLD_PRES: 102
+  response: 7E8076103CC003B0000

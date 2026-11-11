@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2105
+test_cases:
+- expected_values:
+    OSPORT_MPI_IGN_ADVANCE: 61
+    OSPORT_MPI_INJECTOR_DRIVE_TIME: 0
+  response: '7E80761055100000000'

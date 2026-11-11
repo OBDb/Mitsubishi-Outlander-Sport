@@ -1,0 +1,9 @@
+command_id: 688.511.2110|fc=1
+test_cases:
+- expected_values:
+    OSPORT_AC_AIR_THERMO_SNS: 21.25
+    OSPORT_AC_ECT: 22
+    OSPORT_AC_INTERIOR_T: 21.75
+    OSPORT_AC_PRES: 0.51765
+    OSPORT_AC_SOLAR_SNS: 0
+  response: 511076110979528003E
