@@ -5,3 +5,8 @@ test_cases:
     OSPORT_MPI_ECT: 22
     OSPORT_MPI_IAT: 21
   response: 7E80761023D3E000000
+- expected_values:
+    OSPORT_BP: 0
+    OSPORT_MPI_ECT: 22
+    OSPORT_MPI_IAT: 22
+  response: 7E80761023E3E000000

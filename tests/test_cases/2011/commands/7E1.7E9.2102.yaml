@@ -3,6 +3,34 @@ test_cases:
 - expected_values:
     OSPORT_ATF_T: 107
     OSPORT_INPUT_VSS: 139.5
+    OSPORT_OUTPUT_VSS: 102
+  response: |-
+    7E91008610201011700
+    7E921CC930008032003
+- expected_values:
+    OSPORT_ATF_T: 107
+    OSPORT_INPUT_VSS: 139.5
+    OSPORT_OUTPUT_VSS: 102.5
+  response: |-
+    7E91008610201011700
+    7E921CD930002032203
+- expected_values:
+    OSPORT_ATF_T: 107
+    OSPORT_INPUT_VSS: 139.5
+    OSPORT_OUTPUT_VSS: 102.5
+  response: |-
+    7E91008610201011700
+    7E921CD930007032003
+- expected_values:
+    OSPORT_ATF_T: 107
+    OSPORT_INPUT_VSS: 139.5
+    OSPORT_OUTPUT_VSS: 102.5
+  response: |-
+    7E91008610201011700
+    7E921CD9300FDFDEE40
+- expected_values:
+    OSPORT_ATF_T: 107
+    OSPORT_INPUT_VSS: 139.5
     OSPORT_OUTPUT_VSS: 102.5
   response: |-
     7E91008610201011700
@@ -14,6 +42,13 @@ test_cases:
   response: |-
     7E91008610201011700
     7E921CD933508032003
+- expected_values:
+    OSPORT_ATF_T: 107
+    OSPORT_INPUT_VSS: 139.5
+    OSPORT_OUTPUT_VSS: 102.5
+  response: |-
+    7E91008610201011700
+    7E921CD935472616E73
 - expected_values:
     OSPORT_ATF_T: 108
     OSPORT_INPUT_VSS: 139.5
