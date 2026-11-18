@@ -14,10 +14,10 @@ test_cases:
     50021F383019494500D
 - expected_values:
     OSPORT_TP_FL: 29.8
-    OSPORT_TT_FL: 35
+    OSPORT_TT_FL: 33
   response: |-
     500100D612300C20DB9
-    50021F3830195955550
+    50021F3830195955310
 - expected_values:
     OSPORT_TP_FL: 30
     OSPORT_TT_FL: 27
