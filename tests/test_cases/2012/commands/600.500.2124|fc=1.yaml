@@ -20,10 +20,10 @@ test_cases:
     50021F3AD019494500B
 - expected_values:
     OSPORT_TP_RL: 29.8
-    OSPORT_TT_RL: 31
+    OSPORT_TT_RL: 29
   response: |-
     500100D612400C20DB9
-    50021F3AD0195955180
+    50021F3AD0195954F10
 - expected_values:
     OSPORT_TP_RL: 32
     OSPORT_TT_RL: 26
