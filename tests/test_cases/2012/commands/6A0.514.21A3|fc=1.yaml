@@ -1,8 +1,8 @@
 command_id: 6A0.514.21A3|fc=1
 test_cases:
 - expected_values:
-    OSPORT_FLI: 90
-  response: 5140561A300016A
+    OSPORT_FLI: 88
+  response: 5140561A3000168
 - expected_values:
     OSPORT_FLI: 12
   response: 5140561A300041C
