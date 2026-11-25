@@ -4,8 +4,8 @@ test_cases:
     OSPORT_ODO: 199936
   response: 5140561AD000D03
 - expected_values:
-    OSPORT_ODO: 205337
-  response: 5140561AD192203
+    OSPORT_ODO: 205585
+  response: 5140561AD112303
 - expected_values:
     OSPORT_ODO: 199271
   response: 5140561AD670A03
