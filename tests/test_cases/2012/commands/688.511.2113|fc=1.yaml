@@ -33,6 +33,6 @@ test_cases:
     OSPORT_AC_VSS: 250
   response: 511076113CC03780EFF
 - expected_values:
-    OSPORT_AC_RPM: 738
+    OSPORT_AC_RPM: 749
     OSPORT_AC_VSS: 0
-  response: 511076113EE02E20000
+  response: 511076113F202ED0000
